@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-silvio",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f161149-e2ea-4250-bd33-3a633e466fb8",
+		"tenantId": "38025676-176b-4ced-bc4f-3a9ddded6790"
+	}
+}
